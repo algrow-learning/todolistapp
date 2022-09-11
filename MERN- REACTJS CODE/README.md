@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# TODO LIST APP
+
+## Run `npm install` to install all the required packages in listed in package.json. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
