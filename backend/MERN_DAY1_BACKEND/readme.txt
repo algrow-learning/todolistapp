@@ -1,1 +1,0 @@
-Please change (dot)env file to .env after downloading.
