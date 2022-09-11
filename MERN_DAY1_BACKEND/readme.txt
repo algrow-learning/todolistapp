@@ -1,1 +1,9 @@
-Please change (dot)env file to .env after downloading.
+###Please change (dot)env file to .env after downloading.
+
+##To run:
+
+###1. npm install 
+###2. npm start
+### or
+###3. nodemon app.js 
+
